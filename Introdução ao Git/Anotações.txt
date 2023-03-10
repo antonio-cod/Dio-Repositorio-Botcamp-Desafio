@@ -1,0 +1,17 @@
+# Criando Repositorio com Git
+git init
+
+# Adicionando Readme no Projeto
+git add README.md
+
+# Visualizando o status no terminal.
+git status
+
+# Sobindo as informações no projeto
+git add .
+
+#Comitando as alterações
+git commit -m "first commit"
+
+#Subindo todos os comentarios para o Projeto
+git push
