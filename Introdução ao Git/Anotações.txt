@@ -14,4 +14,4 @@ git add .
 git commit -m "first commit"
 
 #Subindo todos os comentarios para o Projeto
-git push
+git push origin main
